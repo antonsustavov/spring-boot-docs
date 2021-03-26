@@ -1,3 +1,5 @@
+## Spring Boot application starters
+
 spring-boot-starter Core starter, including auto-configuration support, logging and YAML
 
 spring-boot-starter-activemq Starter for JMS messaging using Apache ActiveMQ
